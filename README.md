@@ -1,5 +1,6 @@
 # EX.No-6-EDGE-DETECTION
 Edge-detection-opencv
+
 Aim
 To perform edge detection using Sobel, Roberts, Prewitt, Laplacian, and Canny edge detectors.
 
