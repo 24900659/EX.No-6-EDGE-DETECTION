@@ -48,6 +48,8 @@ Name: MOHANA K.V.S.L
 Register No: 212224240093
 
 PROGRAM:
+
+original image
 ```
 import cv2
 import numpy as np
