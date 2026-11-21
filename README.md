@@ -13,6 +13,7 @@ NumPy
 Matplotlib
 
 ⚙️ Algorithm
+
 Step 1:
 Import all the necessary modules for the program.
 
